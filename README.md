@@ -25,8 +25,6 @@ A TOTVS disponibiliza uma série de treinamentos que podem ser realizados gratui
 
 Acesso: [TOTVS Fluig Academy](https://academy.fluig.com/)
 
-> <font color="red"> O site estará indisponível entre os dias 14/07 das 16h ao dia 17/07 às 09h para implantaçãode melhorias e atualizações</font>
-
 Treinamentos recomendados:
 
 1. [GESTÃO DE PROCESSOS - BPM-ECM ESSENTIALS](https://academy.fluig.com/theme/totvs_fluig_academy/landpage.php?course=42) - 02 Hora e 55 Minutos / 26 Aulas
